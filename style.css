@@ -1,8 +1,9 @@
 .paragraph{
   color: blue;
 }
-#header{
+.header{
 
   font-size: 30;
-  color: darkred;
+  color: rgba(243, 8, 8, 0.938);
+  text-align: center;
 }
